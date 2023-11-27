@@ -1,5 +1,5 @@
 body {
-    background-color: #470000
+    background-color: #543424;
  }
 
 .pos_cen {
@@ -24,13 +24,13 @@ body {
     height: 100%;
     border-width: 2px;
     border-radius: 20px;
+    box-shadow: 5px 4px 1px rgba(10, 10, 10, 0.34);
  }
   
   .img_deg2:hover {
-    transform: scale(1);
+    transform: scale(0.9);
     transition: all .6s;
-    box-shadow: 5px 5px 1px rgba(10, 10, 10, 0.34);
-  }
+ }
 
   .h1 {
     position: absolute;
