@@ -2,21 +2,6 @@ body {
     background-color: #543424;
  }
 
-.pos_cen {
-    position: absolute;
-    width: 75%;
-    Left: 10%;
-    top: 15%;
-    background-color: gray;
-    color: black;
-    padding: 30px;
-    border-style: groove;
-    border-color: #414548;
-    border-width: 5px;
-    border-radius: 20px;
-    box-shadow: 5px 5px 1px rgba(10, 10, 10, 0.34);
- }
-
 .img_deg2 {
     padding-top: 0%;
     float: right;
@@ -34,10 +19,10 @@ body {
 
   .h1 {
     position: absolute;
-    width: 80%;
+    width: 79%;
     height: 12.5%;
     top: .5%;
-    left: 10%;
+    left: 19.5%;
     background-color: gray;
     color: black;
     padding: 0px;
@@ -48,3 +33,18 @@ body {
     font-family: "consolas";
     box-shadow: 5px 5px 1px rgba(10, 10, 10, 0.34);
   }
+
+  .pos_cen {
+    position: absolute;
+    width: 74.3%;
+    Left: 19.5%;
+    top: 15%;
+    background-color: gray;
+    color: black;
+    padding: 30px;
+    border-style: groove;
+    border-color: #414548;
+    border-width: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 1px rgba(10, 10, 10, 0.34);
+ }
