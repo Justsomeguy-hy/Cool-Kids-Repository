@@ -1,3 +1,8 @@
+.body {
+    background-color: #D3AC8B;
+}
+
+
 .h2 {
     position: right;
     width: 20%;
@@ -148,8 +153,8 @@
     transform: scale(1.2);
     transition: all .3s;
     background-color: #414548;
-    color: hsl(356, 74%, 49%);
-    border-color: hsl(356, 74%, 49%);
+    color: #BC9E82;
+    border-color: #BC9E82;
     border-style: outset;
     border-width: 4.5px;
     border-radius: 10px;
