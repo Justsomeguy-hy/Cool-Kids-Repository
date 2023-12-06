@@ -173,6 +173,20 @@
     border-radius: 20px;
   }
 
+  .pos_cen2 {
+    position: absolute;
+    width: 79%;
+    Left: 10%;
+    top: 10%;
+    background-color: gray;
+    color: black;
+    padding: 30px;
+    border-style: groove;
+    border-color: #414548;
+    border-width: 5px;
+    border-radius: 20px;
+  }
+
   .h1 {
     position: absolute;
     width: 79%;
