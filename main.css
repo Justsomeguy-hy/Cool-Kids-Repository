@@ -203,3 +203,9 @@
     transform: scale(0.9);
     transition: all .6s;
  }
+
+  hr.line {
+  height: 2px;
+  border: none;
+  background: #4B2D0B;
+ }  
